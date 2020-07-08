@@ -7,10 +7,10 @@ algorithm developed by Todorov, Tassa and Li.
 This implementation is built in reference to the 2012 IROS paper
 "Synthesis and Stabilization of Complex Behaviors through
 Online Trajectory Optimization"
-(link)[https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf].
+[link](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf).
 
 An official matlab implementation of iLQR is available
-(here)[https://de.mathworks.com/matlabcentral/fileexchange/52069-ilqg-ddp-trajectory-optimization].
+[here](https://de.mathworks.com/matlabcentral/fileexchange/52069-ilqg-ddp-trajectory-optimization).
 
 ## Implementation details
 
